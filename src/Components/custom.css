@@ -1,0 +1,47 @@
+/* Custom Font Classes */
+.font-roboto {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .font-roboto-light {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  
+  .font-roboto-regular {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  
+  .font-roboto-bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+  }
+  /* Custom Font Classes for Poppins */
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .font-poppins-light {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  
+  .font-poppins-regular {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  
+  .font-poppins-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+  }
+  .font-custom{
+    font-family: 'Roboto', sans-serif;
+  }
+  .box-Shadow {
+    box-shadow: '0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24)';
+    background-color: #fff;
+  }
+  
+  
